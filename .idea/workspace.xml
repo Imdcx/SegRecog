@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb971f68-67c8-4926-89e3-ecc19f4e5367" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qR8FTpwRozG3nXPNjW4PurQuCV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\94233\PycharmProjects\flask_recongize\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recognize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/recognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seg_predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/seg_predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.seg_predict" />
+      <item itemvalue="Python.recognize" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.recognize" />
+        <item itemvalue="Python.seg_predict" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb971f68-67c8-4926-89e3-ecc19f4e5367" name="Default Changelist" comment="" />
+      <created>1617030938143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617030938143</updated>
+      <workItem from="1617030939328" duration="10000" />
+      <workItem from="1617030959455" duration="5833000" />
+      <workItem from="1617072420690" duration="15000" />
+      <workItem from="1617078432116" duration="2099000" />
+      <workItem from="1617080541667" duration="89000" />
+      <workItem from="1617080673693" duration="15523000" />
+      <workItem from="1617100454948" duration="1767000" />
+      <workItem from="1617177021138" duration="744000" />
+      <workItem from="1617179159288" duration="2601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="356" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617095344824">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="356" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617095344824" />
+    <state x="1196" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617100581388">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1196" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1617100581388" />
+    <state x="850" y="300" key="#xdebugger.XInspectDialog" timestamp="1617032990797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="850" y="300" key="#xdebugger.XInspectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617032990797" />
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1617181762760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1617181762760" />
+    <state width="1877" height="231" key="GridCell.Tab.0.center" timestamp="1617181762760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1617181762760" />
+    <state width="1877" height="231" key="GridCell.Tab.0.left" timestamp="1617181762760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1617181762760" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right" timestamp="1617181762760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1617181762760" />
+    <state width="1352" height="396" key="GridCell.Tab.1.bottom" timestamp="1617100439871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1617100439871" />
+    <state width="1352" height="396" key="GridCell.Tab.1.center" timestamp="1617100439871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="396" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1617100439871" />
+    <state width="1352" height="396" key="GridCell.Tab.1.left" timestamp="1617100439871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="396" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1617100439871" />
+    <state width="1352" height="396" key="GridCell.Tab.1.right" timestamp="1617100439871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1352" height="396" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1617100439871" />
+    <state x="499" y="147" key="SettingsEditor" timestamp="1617095136967">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="499" y="147" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1617095136967" />
+    <state width="487" height="543" key="XDebugger.FullValuePopup" timestamp="1617083832799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="487" height="543" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1617083832799" />
+    <state x="616" y="192" width="672" height="676" key="search.everywhere.popup" timestamp="1617100572173">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="192" width="672" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1617100572173" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="imgs" language="Python" />
+        <watch expression="req" language="Python" />
+      </configuration>
+      <configuration name="Python.FlaskServer">
+        <watch expression="request" language="Python" />
+        <watch expression="request.files" language="Python" />
+        <watch expression="img.file" language="Python" />
+        <watch expression="__py_debug_temp_var_1301050036" />
+        <watch expression="__py_debug_temp_var_1301050036" />
+        <watch expression="__py_debug_temp_var_1301050036" />
+        <watch expression="__py_debug_temp_var_1301050036" />
+        <watch expression="__py_debug_temp_var_1301050036" />
+        <watch expression="request.files" language="Python" />
+        <watch expression="request.form.getlist('img')" language="Python" />
+        <watch expression="request.files" language="Python" />
+        <watch expression="request.form" language="Python" />
+        <watch expression="request.form.getlist('img')" language="Python" />
+        <watch expression="img.getlist()" language="Python" />
+        <watch expression="ImmutableMultiDict([])" language="Python" />
+        <watch expression="request.form" language="Python" />
+        <watch expression="request.args" language="Python" />
+        <watch expression="len(imgs[i])" language="Python" />
+        <watch expression="imgs[i+1]" language="Python" />
+        <watch expression="request.files" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flask_recongize$recognize.coverage" NAME="recognize Coverage Results" MODIFIED="1617180872844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/flask_recongize$seg_predict.coverage" NAME="seg_predict Coverage Results" MODIFIED="1617180082925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/flask_recongize$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1617100549282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_recongize$client.coverage" NAME="client Coverage Results" MODIFIED="1617181647593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+  </component>
+</project>
